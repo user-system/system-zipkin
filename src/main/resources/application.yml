@@ -1,0 +1,7 @@
+server:
+  port: 40100
+spring:
+  application:
+    name: zipkin-server
+  profiles:
+    active: test
